@@ -28,5 +28,10 @@
 }
 
 .row__posterLarge {
-    max-height: 250px;
+  max-height: 250px;
+}
+
+.row__posterLarge:hover {
+  transform: scale(1.09);
+  opacity: 1;
 }
